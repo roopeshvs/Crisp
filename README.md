@@ -1,6 +1,6 @@
 # Crisp
 
-A URL Shortener service created using Python, Django and GraphQL.
+A URL Shortener service created using Python, Django, React and GraphQL.
 
 ### Why Crisp?
 
@@ -143,6 +143,9 @@ query {
 
 ## To-Do
 
-* Integrate With A Front-End.
 * Implement Production-Ready Collision, Hashing Functions & Bloom Filter.
 * Add User Authentication and OAuth.
+
+## React
+
+Find the React part of Crisp at [Crisp React](https://github.com/roopeshvs/Crisp-React.git)
